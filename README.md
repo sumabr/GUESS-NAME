@@ -1,2 +1,2 @@
-# GUESS-NAME
+# guess game
 TAKE THE GUESS NUMBERS
